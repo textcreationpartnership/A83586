@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The effect of all letters read in the House of Parliament from the 14. to the 23. of November from all places of the Kingdome. Viz. Surrey. Shropshire Berkshire Yorke Sussex. Holland Cornwall. Middlesex Leicester Ireland Sea Worcester Wales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83586</idno>
+            <idno type="STC">Wing E244</idno>
+            <idno type="STC">Thomason E127_48</idno>
+            <idno type="STC">ESTC R21722</idno>
+            <idno type="EEBO-CITATION">99871487</idno>
+            <idno type="PROQUEST">99871487</idno>
+            <idno type="VID">156230</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83586)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156230)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E127[48])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The effect of all letters read in the House of Parliament from the 14. to the 23. of November from all places of the Kingdome. Viz. Surrey. Shropshire Berkshire Yorke Sussex. Holland Cornwall. Middlesex Leicester Ireland Sea Worcester Wales.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Novemb. 23. London, Printed for John Cave,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156230:1" rendition="simple:additions"/>
+            <p>The Effect of all LETTERS Read in the Houſe of PARLIAMENT.</p>
+            <p>From the 14. to the 23. of <hi>November</hi> from <hi>all places of the Kingdome.</hi>
+            </p>
+            <p>
+               <hi>VIZ.</hi>
+            </p>
+            <list>
+               <item>Surrey.</item>
+               <item>Shropſhire</item>
+               <item>Berkſhire</item>
+               <item>Yorke</item>
+               <item>Suſſex.</item>
+               <item>Holland</item>
+               <item>Cornwall.</item>
+               <item>Middleſex</item>
+               <item>Leiceſter</item>
+               <item>Ireland</item>
+               <item>Sea</item>
+               <item>Worceſter</item>
+               <item>Wales.</item>
+            </list>
+            <p>
+               <hi>Novemb.</hi> 23.</p>
+            <p>
+               <hi>London,</hi> Printed for JOHN CAVE. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156230:2"/>
+            <pb facs="tcp:156230:2"/>
+            <head>The effect of all Letters read in the Houſe from the 14. of November to the 22.</head>
+            <p>
+               <label>1. <hi>Surrey.</hi>
+               </label>
+            </p>
+            <p>ON Munday the 14. of November there was a Letter read from <hi>King<g ref="char:EOLhyphen"/>ſtone,</hi> ſetting forth that his Majeſty was carryed over to <hi>Kingſton</hi> by one <hi>Anthony Browne</hi> a Courtier, by whoſe meanes his Majeſties Army plundered all the Town as well Malignants as others, and that the Church was made a Stable or Oxe-ſtall, and a place of filth, where all the Kings Army emptied their filthy panches, as alſo the filth of 500. Iriſh and Welch wo<g ref="char:EOLhyphen"/>men running after the Army, which are more cruell to thoſe which lye on their mercy then any forraigne Enemy what<g ref="char:EOLhyphen"/>ſoever.</p>
+            <pb facs="tcp:156230:3"/>
+            <p>
+               <label>Shropſhire.</label>
+            </p>
+            <p>A Letter was read from <hi>Shrewesbury,</hi> intimating that the Kings Mint and Printing Preſſe, are ſtill at <hi>Shrewesbury.</hi> The High Sheriffe of that County and the Maior of <hi>Shrewesbury</hi> have Commiſſi<g ref="char:EOLhyphen"/>on from the King to open all Letters be<g ref="char:EOLhyphen"/>fore they be either caried out or brought into that County.</p>
+            <p>
+               <label>Berkſhire.</label>
+            </p>
+            <p>A Letter from Colonell <hi>Venne,</hi> that he hath taken 4. or 5. of the Kings Carriages as they paſſed by <hi>Windſore,</hi> full of clothes and atmes.</p>
+            <p>
+               <label>Yorke.</label>
+            </p>
+            <p>A Letter from Captaine <hi>Hotham,</hi> Sir <hi>Hugh Cholmley,</hi> and Sir <hi>J. Gill</hi> is joyned with the Lord <hi>Fairefax</hi> in the beſieging of <hi>Yorke,</hi> further declaring, that Captain <hi>Hotham</hi> eſcaped piſtolling very narrowly at <hi>Leeds,</hi> by a Drummer, and by Gods great providence his Piſtoll would not not ſuddenly go off. The Lord and Sir <hi>William Savill</hi> proffereth to give 10000
+<pb facs="tcp:156230:3"/> pound to be admitted into the Parlia<g ref="char:EOLhyphen"/>ment houſe, but will not be accepted of, for that they have been the onely Ring<g ref="char:EOLhyphen"/>leaders of this diſturbance in that County of <hi>Yorke.</hi>
+            </p>
+            <p>
+               <label>Suſſex.</label>
+            </p>
+            <p>A Letter from Captaine <hi>Chitworth</hi> at <hi>Chicheſter,</hi> that the Biſhop of the Citie invited him to dinner, where in diſcourſe the Biſhop told him that his Majeſty had a Proclamation to proclaime a Traytor for the ſeeking to oppoſe his <hi>Commiſſion of Array,</hi> yet nevertheleſſe if he will leave off, and aſſiſt his Maieſty, hee will give him a free pardon and employ him in his ſervice: The Captaine replyed, that what he had done, is not the half part of what he intends to doe, for he hoped to have ſome Eorces in the City under his command, and then he will ſift all thoſe that are Malignants againſt the Parlia<g ref="char:EOLhyphen"/>ment, and biſarme them all, not leaving them a weapon to hurt a dog withal.</p>
+            <pb facs="tcp:156230:4"/>
+            <p>
+               <label>Holland.</label>
+            </p>
+            <p>There was a Letter from the States of <hi>Holland,</hi> intimating that the <hi>French</hi> King hath a great Army neer <hi>Colen,</hi> wher<g ref="char:EOLhyphen"/>of his Generall hath diſcharged 10000. of them, hoping to have them tranſpor<g ref="char:EOLhyphen"/>ted for <hi>England,</hi> but the States have ut<g ref="char:EOLhyphen"/>terly refuſed, that they ſhould either paſſe through their Country, or take any ſhip<g ref="char:EOLhyphen"/>ping there for <hi>England.</hi>
+            </p>
+            <p>
+               <label>Cornwall.</label>
+            </p>
+            <p>A Letter from <hi>Cornwall,</hi> ſetting forth the number of the Cavaleers there, which is neere upon 10000. who intendeth forthwith to advance their forces toward His Majeſty at <hi>Salisbury.</hi>
+            </p>
+            <p>
+               <label>Middleſex.</label>
+            </p>
+            <p>A Letter from the Parſon of <hi>Cherſey,</hi> ſetting forth what company of Horſe &amp; Foot are come there, being upon 1000. and no great ſpoil as yet they have done, ſaving to their poultrey and ſuch like.</p>
+            <p>
+               <label>Leiceſter.</label>
+            </p>
+            <p>Another from the Maior of <hi>Leiceſter,</hi> wherin his Maieſty hath commanded him
+<pb facs="tcp:156230:4"/> to pay the moni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s that have bin raiſed in that Towne upon the Bill of Subſedies to Mr. <hi>Haſtings,</hi> and if he ſhall refuſe the payment thereof, that then to be appre<g ref="char:EOLhyphen"/>hended, and brough to his Majeſty, and be puniſhed for his contempt.</p>
+            <p>
+               <label>Ireland.</label>
+            </p>
+            <p>A Letter from the Councell at <hi>Dublin</hi> wherin is ſet downe that <hi>Oneal</hi> is dan<g ref="char:EOLhyphen"/>gerouſly wounded at the laſt Fight at <hi>Feelers,</hi> and that the Souldiers dyeth in abundance, as though ſome infection or other ſickneſſe were amongſt them.</p>
+            <p>
+               <label>Sea.</label>
+            </p>
+            <p>A Letter from the Vice-admiral <hi>Batten</hi> wherein he declareth, that he hath taken a Ship and a Ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k full of horſe comming out of <hi>Flanders,</hi> and have brought them to <hi>Portſmouth,</hi> where they now remaine till order from the Parliament.</p>
+            <p>
+               <label>Worceſter.</label>
+            </p>
+            <p>A letter from Worceſter declaring that Colonell Sands is dead, as alſo a
+<pb facs="tcp:156230:5"/> plot which was l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tely diſcovered by Mr. <hi>Stanhop,</hi> concerning the blowing vp of the Goale and the priſoners that have bin taken by the <hi>Parliaments</hi> forces to be on ſuch a time in the garden and aſſoone as the Goale is opened to make their eſcapes and this hath bin practiſed by ſome of the Cheife of the inhabitants there.</p>
+            <p>
+               <label>Wales.</label>
+            </p>
+            <p>There was this day a letter which was intercepted at <hi>Baſingſtoke,</hi> entitled To the high and Mighty Prince <hi>Charles K</hi> of <hi>England</hi> &amp;c. dated from Angleſey the 16 of <hi>November</hi> from <hi>Marquis</hi> of <hi>Hartford,</hi> wherein he writeth that he did wait on his Majeſty with all conveniency, at Sa<g ref="char:EOLhyphen"/>lisbury within 10. dayes with his Horſe and foot, which is neere 8000. Welch Souldiers.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
